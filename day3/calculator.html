@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CALCULATOR</title>
+<script type="text/javascript">
+function calculate(operation) {
+    var a = parseInt(document.frm.num1.value);
+    var b = parseInt(document.frm.num2.value);
+    var result;
+
+    switch(operation) {
+        case '+':
+            result = a + b;
+            break;
+        case '-':
+            result = a - b;
+            break;
+        case 'x':
+            result = a * b;
+            break;
+        case '/':
+            if (b != 0) {
+                result = a / b;
+            } else {
+                result = "divide by zero error";
+            }
+            break;
+        default:
+            result = "Invalid operation";
+    }
+
+    document.frm.result.value = result;
+}
+</script>
+</head>
+<h1>Simple calculator</h1>
+<body style="text-align: center;">
+<form name="frm" style="margin-left: 500px ;margin-top:50px;">
+<fieldset style="width:500px;text-align:center;">
+<legend>Arithmetic Operations</legend>
+<label>Enter First Number :</label> 
+<input type="text" name="num1" required /> 
+<br><br>
+<label>Enter Second Number : </label>
+<input type="text" name="num2" required="required" />
+<br><br>
+<label>Result</label>
+<input type="text" name="result" />  
+<br><br>
+<input type="button" value="+" onClick="calculate('+')"/>
+<input type="button" value="-" onClick="calculate('-')"/>
+<input type="button" value="x" onClick="calculate('x')"/>
+<input type="button" value="/" onClick="calculate('/')"/>
+</form>
+</fieldset>
+</body>
+</html>

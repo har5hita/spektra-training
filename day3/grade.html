@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>grading</title>
+    <link href="gr.css" rel="stylesheet" />
+    <script>
+      function calculateGrades() {
+        // Get marks from input fields and store in an array
+        var marks = [];
+        marks.push(parseInt(document.getElementById("maths").value));
+        marks.push(parseInt(document.getElementById("english").value));
+        marks.push(parseInt(document.getElementById("science").value));
+        marks.push(parseInt(document.getElementById("history").value));
+        marks.push(parseInt(document.getElementById("arts").value));
+
+        // Calculate total marks
+        var totalMarks = 0;
+        for (var i = 0; i < marks.length; i++) {
+          totalMarks += marks[i];
+        }
+
+        // Calculate average
+        var average = totalMarks / marks.length;
+
+        // Assign grades based on average
+        var grade;
+        if (average >= 90) {
+          grade = "A+";
+        } else if (average >= 80) {
+          grade = "A";
+        } else if (average >= 70) {
+          grade = "B";
+        } else if (average >= 60) {
+          grade = "C";
+        } else if (average >= 50) {
+          grade = "D";
+        } else {
+          grade = "F";
+        }
+
+        // Display result
+        var result = document.getElementById("res");
+        result.value = grade;
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Grades</h1>
+    <form id="form1" class="form1">
+      <label>Candidate name:</label>
+      <br /><br />
+      <input type="text" class="in" placeholder="Enter name" />
+      <br /><br />
+      <label>Enter marks of your subjects:</label>
+      <br /><br />
+      <label>Maths:</label>
+      <input type="text" class="in" id="maths" placeholder="Enter marks" />
+      <br /><br />
+      <label>English:</label>
+      <input type="text" class="in" id="english" placeholder="Enter marks" />
+      <br /><br />
+      <label>Science</label>
+      <input type="text" class="in" id="science" placeholder="Enter marks" />
+      <br /><br />
+      <label>History</label>
+      <input type="text" class="in" id="history" placeholder="Enter marks" />
+      <br /><br />
+      <label>Arts</label>
+      <input type="text" class="in" id="arts" placeholder="Enter marks" />
+      <br /><br />
+
+      <label>Result:</label>
+      <br /><br />
+      <input id="res" class="in" type="text" placeholder="Result" />
+      <br /><br />
+      <button type="button" onclick="calculateGrades()">Submit</button>
+    </form>
+  </body>
+</html>

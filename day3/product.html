@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>multiply</title>
+    <script>
+      function product() {
+        let n = parseInt(document.getElementById("n1").value);
+        let m = parseInt(document.getElementById("n2").value);
+        let res = m * n;
+        document.getElementById("out").value = res;
+      }
+      function divide() {
+        let n = parseInt(document.getElementById("n1").value);
+        let m = parseInt(document.getElementById("n2").value);
+        let res;
+        if (m == 0) {
+          res = "not defined";
+        } else {
+          res = n / m;
+        }
+        document.getElementById("out").value = res;
+      }
+    </script>
+  </head>
+  <body style="text-align: center">
+    <h1>SAMPLE FORM</h1>
+    <form name="form" style="margin-left: 670px">
+      <fieldset style="width: 200px; height: 200px; padding-bottom: 20px">
+        <legend>Calculate</legend>
+        <label>1st number:</label>
+        <input type="text" id="n1" placeholder="Enter a number" />
+        <br /><br />
+        <label>2nd number:</label>
+        <input type="text" id="n2" placeholder="Enter a number" />
+        <br /><br />
+        <label>Result :</label>
+        <input type="text" id="out" placeholder="output" />
+        <br /><br />
+        <button type="button" name="mul" onClick="product()">Multiply</button>
+        <button type="button" name="div" onClick="divide()">Divide</button>
+      </fieldset>
+    </form>
+  </body>
+</html>
