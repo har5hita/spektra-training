@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: #54333f;
+  font-size: x-large;
+}
+fieldset {
+  width: 500px;
+  height: 550px;
+  margin-left: 500px;
+}
+.ip {
+  width: 100%;
+  height: 40px;
+
+  border-radius: 20px;
+
+  box-shadow: 2px 2px 5px rgba(84, 51, 63, 0.5);
+}
+.lb {
+  font-size: x-large;
+  margin-right: 20px;
+}
+button {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: cursor;
+  box-shadow: 2px 2px 5px rgba(84, 51, 63, 0.5);
+}
+.select[input] {
+  width: 100%;
+}

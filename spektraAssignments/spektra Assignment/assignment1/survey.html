@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="sty.css" rel="stylesheet" />
+    <title>Survey form</title>
+  </head>
+  <body>
+    <h1>Registration Form</h1>
+    <form name="form">
+      <fieldset>
+        <input type="text" placeholder="Enter first name:" class="ip" />
+        <label class="lb">Last Name:</label>
+        <input type="text" placeholder="Enter last name:" class="ip" />
+        <label class="lb">DOB:</label>
+        <input type="date" placeholder="Enter DOB" class="ip" />
+        <label class="lb">Phone number</label>
+        <input
+          type="text"
+          placeholder="Enter phone number"
+          required
+          class="ip"
+        />
+        <label class="lb">Email:</label>
+        <input type="email" placeholder="Enter email" required class="ip" />
+        <label>Skills:</label>
+        <br />
+        <input type="checkbox" value="java" name="skills" />
+        <label>JAVA</label>
+
+        <input type="checkbox" value="PYTHON" name="skills" />
+        <label>PYTHON</label>
+
+        <input type="checkbox" value="C" name="skills" />
+        <label>C#</label>
+
+        <input type="checkbox" value="CP" name="skills" />
+        <label>C++</label>
+        <br />
+
+        <br />
+        <select class="ip">
+          BRANCH
+          <option class="ip">SELECT</option>
+          <option class="ip" value="bca">BCA</option>
+          <option class="ip" value="Mca">MCA</option>
+          <option class="ip" value="MBa">MBA</option>
+          <option class="ip" value="MSC">MSC</option>
+        </select>
+        <br />
+
+        <input type="radio" name="gender" value="female" />
+        <label>Male</label>
+
+        <input type="radio" name="gender" value="male" checked />
+        <label>Female</label>
+        <br />
+        <button>SUBMIT</button>
+      </fieldset>
+    </form>
+  </body>
+</html>
