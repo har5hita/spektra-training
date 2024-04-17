@@ -1,0 +1,83 @@
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .rakkas-regular {
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lilita-one-regular {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  body{
+    text-align: center;
+    background-color: #0F1213;
+    overflow-y: auto;
+
+  }
+  .con{
+    width: 100%;
+    height: 700px;
+    text-align: center;
+  }
+  footer{
+    padding: 20px;
+    margin-left: 200px;
+    width: 800px;
+    text-align: center;
+  }
+  .head{
+    color: #4c3115;
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+  }
+  .text{
+    color:#362a18 ;
+    font-size:15px;
+  }
+  button{
+    margin-top: 50px;
+    width: 300px;
+    height: 50px;
+    background-color: #362a18;
+    opacity: 0.5;
+    font-size: 20px;
+    color: rgb(177, 137, 94);
+    box-shadow: 1px 1px 10px 1px rgba(177, 137, 94, 0.8); 
+  }
+  
+  .details{
+    display: flex;
+    padding: 50px;
+  }
+
+  .sub{
+    color: #4c3115;
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    
+    padding: 10px;
+  }
+  .info{
+    color: rgb(177, 137, 94);
+    font-size:15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+
+
+  }

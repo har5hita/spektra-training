@@ -1,0 +1,86 @@
+.tac-one-regular {
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .rakkas-regular {
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lilita-one-regular {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+body,html{
+    padding: 0px;
+    margin-top: 0px;
+    text-align: center;
+    background-color:blanchedalmond;
+    overflow-y: scroll;     
+    scrollbar-width: none; 
+    margin-bottom: 50px;
+   
+}
+.head{
+    background-image: linear-gradient(rgba(100, 100, 100, 0.5), rgba(100, 100, 100, 0.5)),url("delicacies.jpg");
+    width:100%;
+    height: 500px; 
+    border:2px solid;
+    border-color: blanchedalmond;
+    
+}
+.p1{
+    font-size: 150px;
+    font-family: "Tac One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(44, 14, 14);;
+}
+.p2{
+    position: absolute;
+    left:550px;
+    top: 300px;
+    font-size: xx-large;
+    color: black;
+    font-style: italic;
+    
+}
+.ab{
+    width:100;
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    border: 10px double;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.heading{
+    overflow-y: auto;
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px
+}
+.text{
+font-size: 20px;
+}
+.sub{
+    font-family: "Rakkas", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    
+  }
+.f{
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    margin-top: 80px;
+}
