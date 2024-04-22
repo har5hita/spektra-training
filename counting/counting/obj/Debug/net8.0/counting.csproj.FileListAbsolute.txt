@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\counting\counting\bin\Debug\net8.0\counting.exe
+C:\Users\harsh\source\repos\counting\counting\bin\Debug\net8.0\counting.deps.json
+C:\Users\harsh\source\repos\counting\counting\bin\Debug\net8.0\counting.runtimeconfig.json
+C:\Users\harsh\source\repos\counting\counting\bin\Debug\net8.0\counting.dll
+C:\Users\harsh\source\repos\counting\counting\bin\Debug\net8.0\counting.pdb
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\counting.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\counting.AssemblyInfo.cs
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\counting.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\counting.dll
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\refint\counting.dll
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\counting.pdb
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\counting.genruntimeconfig.cache
+C:\Users\harsh\source\repos\counting\counting\obj\Debug\net8.0\ref\counting.dll
