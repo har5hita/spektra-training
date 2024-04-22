@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\bin\Debug\net8.0\SimpleInterest.exe
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\bin\Debug\net8.0\SimpleInterest.deps.json
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\bin\Debug\net8.0\SimpleInterest.runtimeconfig.json
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\bin\Debug\net8.0\SimpleInterest.dll
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\bin\Debug\net8.0\SimpleInterest.pdb
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\SimpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\SimpleInterest.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\SimpleInterest.AssemblyInfo.cs
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\SimpleInterest.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\SimpleInterest.dll
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\refint\SimpleInterest.dll
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\SimpleInterest.pdb
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\SimpleInterest.genruntimeconfig.cache
+C:\Users\harsh\source\repos\SimpleInterest\SimpleInterest\obj\Debug\net8.0\ref\SimpleInterest.dll
