@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\Transactions\Transactions\bin\Debug\net8.0\Transactions.exe
+C:\Users\harsh\source\repos\Transactions\Transactions\bin\Debug\net8.0\Transactions.deps.json
+C:\Users\harsh\source\repos\Transactions\Transactions\bin\Debug\net8.0\Transactions.runtimeconfig.json
+C:\Users\harsh\source\repos\Transactions\Transactions\bin\Debug\net8.0\Transactions.dll
+C:\Users\harsh\source\repos\Transactions\Transactions\bin\Debug\net8.0\Transactions.pdb
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\Transactions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\Transactions.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\Transactions.AssemblyInfo.cs
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\Transactions.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\Transactions.dll
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\refint\Transactions.dll
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\Transactions.pdb
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\Transactions.genruntimeconfig.cache
+C:\Users\harsh\source\repos\Transactions\Transactions\obj\Debug\net8.0\ref\Transactions.dll
