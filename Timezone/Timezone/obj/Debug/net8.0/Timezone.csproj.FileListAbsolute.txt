@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\Timezone\Timezone\bin\Debug\net8.0\Timezone.exe
+C:\Users\harsh\source\repos\Timezone\Timezone\bin\Debug\net8.0\Timezone.deps.json
+C:\Users\harsh\source\repos\Timezone\Timezone\bin\Debug\net8.0\Timezone.runtimeconfig.json
+C:\Users\harsh\source\repos\Timezone\Timezone\bin\Debug\net8.0\Timezone.dll
+C:\Users\harsh\source\repos\Timezone\Timezone\bin\Debug\net8.0\Timezone.pdb
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\Timezone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\Timezone.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\Timezone.AssemblyInfo.cs
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\Timezone.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\Timezone.dll
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\refint\Timezone.dll
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\Timezone.pdb
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\Timezone.genruntimeconfig.cache
+C:\Users\harsh\source\repos\Timezone\Timezone\obj\Debug\net8.0\ref\Timezone.dll
