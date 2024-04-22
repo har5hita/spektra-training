@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\Area\Area\bin\Debug\net8.0\Area.exe
+C:\Users\harsh\source\repos\Area\Area\bin\Debug\net8.0\Area.deps.json
+C:\Users\harsh\source\repos\Area\Area\bin\Debug\net8.0\Area.runtimeconfig.json
+C:\Users\harsh\source\repos\Area\Area\bin\Debug\net8.0\Area.dll
+C:\Users\harsh\source\repos\Area\Area\bin\Debug\net8.0\Area.pdb
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\Area.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\Area.AssemblyInfo.cs
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\Area.dll
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\refint\Area.dll
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\Area.pdb
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\Area.genruntimeconfig.cache
+C:\Users\harsh\source\repos\Area\Area\obj\Debug\net8.0\ref\Area.dll
