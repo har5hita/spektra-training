@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\largest\largest\bin\Debug\net8.0\largest.exe
+C:\Users\harsh\source\repos\largest\largest\bin\Debug\net8.0\largest.deps.json
+C:\Users\harsh\source\repos\largest\largest\bin\Debug\net8.0\largest.runtimeconfig.json
+C:\Users\harsh\source\repos\largest\largest\bin\Debug\net8.0\largest.dll
+C:\Users\harsh\source\repos\largest\largest\bin\Debug\net8.0\largest.pdb
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\largest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\largest.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\largest.AssemblyInfo.cs
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\largest.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\largest.dll
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\refint\largest.dll
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\largest.pdb
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\largest.genruntimeconfig.cache
+C:\Users\harsh\source\repos\largest\largest\obj\Debug\net8.0\ref\largest.dll
