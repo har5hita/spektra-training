@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\bin\Debug\net8.0\GenericListExample.exe
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\bin\Debug\net8.0\GenericListExample.deps.json
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\bin\Debug\net8.0\GenericListExample.runtimeconfig.json
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\bin\Debug\net8.0\GenericListExample.dll
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\bin\Debug\net8.0\GenericListExample.pdb
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\GenericListExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\GenericListExample.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\GenericListExample.AssemblyInfo.cs
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\GenericListExample.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\GenericListExample.dll
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\refint\GenericListExample.dll
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\GenericListExample.pdb
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\GenericListExample.genruntimeconfig.cache
+C:\Users\harsh\source\repos\GenericListExample\GenericListExample\obj\Debug\net8.0\ref\GenericListExample.dll
