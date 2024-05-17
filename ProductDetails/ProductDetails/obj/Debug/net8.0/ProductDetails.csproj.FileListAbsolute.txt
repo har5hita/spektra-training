@@ -1,0 +1,17 @@
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\bin\Debug\net8.0\ProductDetails.exe
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\bin\Debug\net8.0\ProductDetails.deps.json
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\bin\Debug\net8.0\ProductDetails.runtimeconfig.json
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\bin\Debug\net8.0\ProductDetails.dll
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\bin\Debug\net8.0\ProductDetails.pdb
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.AssemblyInfo.cs
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductD.70FBD640.Up2Date
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.dll
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\refint\ProductDetails.dll
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.pdb
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ProductDetails.genruntimeconfig.cache
+C:\Users\harsh\source\repos\ProductDetails\ProductDetails\obj\Debug\net8.0\ref\ProductDetails.dll

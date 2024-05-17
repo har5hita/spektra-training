@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Da5OCmrwyZVSbhzaYfZ+qNT71I5XLIxh++JC5NMZ8Hyv68++d/Ijh2TOF6R8hnaEsdLmjM4RVv6Ki4MctpP27Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harsh\\source\\repos\\ProductDetails\\ProductDetails\\ProductDetails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harsh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
