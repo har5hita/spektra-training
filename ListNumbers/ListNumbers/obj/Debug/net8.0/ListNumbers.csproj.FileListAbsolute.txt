@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\bin\Debug\net8.0\ListNumbers.exe
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\bin\Debug\net8.0\ListNumbers.deps.json
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\bin\Debug\net8.0\ListNumbers.runtimeconfig.json
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\bin\Debug\net8.0\ListNumbers.dll
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\bin\Debug\net8.0\ListNumbers.pdb
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ListNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ListNumbers.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ListNumbers.AssemblyInfo.cs
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ListNumbers.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ListNumbers.dll
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\refint\ListNumbers.dll
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ListNumbers.pdb
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ListNumbers.genruntimeconfig.cache
+C:\Users\harsh\source\repos\ListNumbers\ListNumbers\obj\Debug\net8.0\ref\ListNumbers.dll
