@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\bin\Debug\net8.0\EmployeeName.exe
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\bin\Debug\net8.0\EmployeeName.deps.json
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\bin\Debug\net8.0\EmployeeName.runtimeconfig.json
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\bin\Debug\net8.0\EmployeeName.dll
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\bin\Debug\net8.0\EmployeeName.pdb
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\EmployeeName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\EmployeeName.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\EmployeeName.AssemblyInfo.cs
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\EmployeeName.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\EmployeeName.dll
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\refint\EmployeeName.dll
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\EmployeeName.pdb
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\EmployeeName.genruntimeconfig.cache
+C:\Users\harsh\source\repos\EmployeeName\EmployeeName\obj\Debug\net8.0\ref\EmployeeName.dll
