@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\CopyContent\CopyContent\bin\Debug\net8.0\CopyContent.exe
+C:\Users\harsh\source\repos\CopyContent\CopyContent\bin\Debug\net8.0\CopyContent.deps.json
+C:\Users\harsh\source\repos\CopyContent\CopyContent\bin\Debug\net8.0\CopyContent.runtimeconfig.json
+C:\Users\harsh\source\repos\CopyContent\CopyContent\bin\Debug\net8.0\CopyContent.dll
+C:\Users\harsh\source\repos\CopyContent\CopyContent\bin\Debug\net8.0\CopyContent.pdb
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\CopyContent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\CopyContent.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\CopyContent.AssemblyInfo.cs
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\CopyContent.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\CopyContent.dll
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\refint\CopyContent.dll
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\CopyContent.pdb
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\CopyContent.genruntimeconfig.cache
+C:\Users\harsh\source\repos\CopyContent\CopyContent\obj\Debug\net8.0\ref\CopyContent.dll
