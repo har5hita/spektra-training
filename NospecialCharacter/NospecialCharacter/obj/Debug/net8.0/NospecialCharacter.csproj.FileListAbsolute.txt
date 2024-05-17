@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\bin\Debug\net8.0\NospecialCharacter.exe
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\bin\Debug\net8.0\NospecialCharacter.deps.json
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\bin\Debug\net8.0\NospecialCharacter.runtimeconfig.json
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\bin\Debug\net8.0\NospecialCharacter.dll
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\bin\Debug\net8.0\NospecialCharacter.pdb
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\NospecialCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\NospecialCharacter.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\NospecialCharacter.AssemblyInfo.cs
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\NospecialCharacter.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\NospecialCharacter.dll
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\refint\NospecialCharacter.dll
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\NospecialCharacter.pdb
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\NospecialCharacter.genruntimeconfig.cache
+C:\Users\harsh\source\repos\NospecialCharacter\NospecialCharacter\obj\Debug\net8.0\ref\NospecialCharacter.dll
