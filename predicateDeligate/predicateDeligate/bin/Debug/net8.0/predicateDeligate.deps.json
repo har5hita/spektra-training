@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "predicateDeligate/1.0.0": {
+        "runtime": {
+          "predicateDeligate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "predicateDeligate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

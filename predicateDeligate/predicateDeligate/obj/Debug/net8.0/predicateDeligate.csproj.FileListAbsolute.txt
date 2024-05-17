@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\bin\Debug\net8.0\predicateDeligate.exe
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\bin\Debug\net8.0\predicateDeligate.deps.json
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\bin\Debug\net8.0\predicateDeligate.runtimeconfig.json
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\bin\Debug\net8.0\predicateDeligate.dll
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\bin\Debug\net8.0\predicateDeligate.pdb
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\predicateDeligate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\predicateDeligate.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\predicateDeligate.AssemblyInfo.cs
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\predicateDeligate.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\predicateDeligate.dll
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\refint\predicateDeligate.dll
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\predicateDeligate.pdb
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\predicateDeligate.genruntimeconfig.cache
+C:\Users\harsh\source\repos\predicateDeligate\predicateDeligate\obj\Debug\net8.0\ref\predicateDeligate.dll
