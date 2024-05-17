@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\bin\Debug\net8.0\FactorialAndFibo.exe
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\bin\Debug\net8.0\FactorialAndFibo.deps.json
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\bin\Debug\net8.0\FactorialAndFibo.runtimeconfig.json
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\bin\Debug\net8.0\FactorialAndFibo.dll
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\bin\Debug\net8.0\FactorialAndFibo.pdb
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\FactorialAndFibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\FactorialAndFibo.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\FactorialAndFibo.AssemblyInfo.cs
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\FactorialAndFibo.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\FactorialAndFibo.dll
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\refint\FactorialAndFibo.dll
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\FactorialAndFibo.pdb
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\FactorialAndFibo.genruntimeconfig.cache
+C:\Users\harsh\source\repos\FactorialAndFibo\FactorialAndFibo\obj\Debug\net8.0\ref\FactorialAndFibo.dll
