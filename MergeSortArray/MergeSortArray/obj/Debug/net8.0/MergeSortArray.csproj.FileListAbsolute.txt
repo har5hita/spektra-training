@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\bin\Debug\net8.0\MergeSortArray.exe
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\bin\Debug\net8.0\MergeSortArray.deps.json
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\bin\Debug\net8.0\MergeSortArray.runtimeconfig.json
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\bin\Debug\net8.0\MergeSortArray.dll
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\bin\Debug\net8.0\MergeSortArray.pdb
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\MergeSortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\MergeSortArray.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\MergeSortArray.AssemblyInfo.cs
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\MergeSortArray.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\MergeSortArray.dll
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\refint\MergeSortArray.dll
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\MergeSortArray.pdb
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\MergeSortArray.genruntimeconfig.cache
+C:\Users\harsh\source\repos\MergeSortArray\MergeSortArray\obj\Debug\net8.0\ref\MergeSortArray.dll
