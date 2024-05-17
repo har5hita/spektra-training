@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\bin\Debug\net8.0\DelegateFunction.exe
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\bin\Debug\net8.0\DelegateFunction.deps.json
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\bin\Debug\net8.0\DelegateFunction.runtimeconfig.json
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\bin\Debug\net8.0\DelegateFunction.dll
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\bin\Debug\net8.0\DelegateFunction.pdb
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\DelegateFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\DelegateFunction.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\DelegateFunction.AssemblyInfo.cs
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\DelegateFunction.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\DelegateFunction.dll
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\refint\DelegateFunction.dll
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\DelegateFunction.pdb
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\DelegateFunction.genruntimeconfig.cache
+C:\Users\harsh\source\repos\DelegateFunction\DelegateFunction\obj\Debug\net8.0\ref\DelegateFunction.dll
