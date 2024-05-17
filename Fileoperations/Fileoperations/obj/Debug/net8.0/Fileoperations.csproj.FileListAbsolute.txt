@@ -1,0 +1,14 @@
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\bin\Debug\net8.0\Fileoperations.exe
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\bin\Debug\net8.0\Fileoperations.deps.json
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\bin\Debug\net8.0\Fileoperations.runtimeconfig.json
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\bin\Debug\net8.0\Fileoperations.dll
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\bin\Debug\net8.0\Fileoperations.pdb
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\Fileoperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\Fileoperations.AssemblyInfoInputs.cache
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\Fileoperations.AssemblyInfo.cs
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\Fileoperations.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\Fileoperations.dll
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\refint\Fileoperations.dll
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\Fileoperations.pdb
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\Fileoperations.genruntimeconfig.cache
+C:\Users\harsh\source\repos\Fileoperations\Fileoperations\obj\Debug\net8.0\ref\Fileoperations.dll
